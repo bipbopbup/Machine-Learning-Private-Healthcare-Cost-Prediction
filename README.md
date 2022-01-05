@@ -1,7 +1,5 @@
 # Machine-Learning-Private-Healthcare-Cost-Prediction
 
-By @bipbopbup and @
-
 A Colab Notebook with an extensive analysis and data preprocessing used to implement a ML Model which predicts healthcare costs. Through an extensive preprocessing research we have achieved great results with a very simple model, i.e., Lasso.
 
 The notebook has been separated into the following parts:
@@ -13,3 +11,5 @@ The notebook has been separated into the following parts:
 - Validation
 - Predictions
 - Saving Generated Predictions
+
+Developed by @bipbopbup and @Hugo0133
